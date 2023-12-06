@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\Chpater01">
       <UniqueIdentifier>{e82164ce-cad4-4a97-aef1-61c1770998b9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter02">
+      <UniqueIdentifier>{22caa13c-bc98-4009-b84d-609629efdd1e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LinearSearch.c">
@@ -26,6 +29,18 @@
     </ClCompile>
     <ClCompile Include="BSWorstOpCount.c">
       <Filter>소스 파일\Chpater01</Filter>
+    </ClCompile>
+    <ClCompile Include="RecursiveFunc.c">
+      <Filter>소스 파일\Chapter02</Filter>
+    </ClCompile>
+    <ClCompile Include="RecursiveFactorial.c">
+      <Filter>소스 파일\Chapter02</Filter>
+    </ClCompile>
+    <ClCompile Include="FibonacciFunc.c">
+      <Filter>소스 파일\Chapter02</Filter>
+    </ClCompile>
+    <ClCompile Include="RecursiveBinarySearch.c">
+      <Filter>소스 파일\Chapter02</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
