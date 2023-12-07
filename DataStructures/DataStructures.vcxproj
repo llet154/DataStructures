@@ -127,13 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ArrayList.c" />
     <ClCompile Include="BinarySearch.c" />
     <ClCompile Include="BSWorstOpCount.c" />
     <ClCompile Include="FibonacciFunc.c" />
+    <ClCompile Include="HanoiTowerSolu.c" />
     <ClCompile Include="LinearSearch.c" />
+    <ClCompile Include="ListMain.c" />
     <ClCompile Include="RecursiveBinarySearch.c" />
     <ClCompile Include="RecursiveFactorial.c" />
     <ClCompile Include="RecursiveFunc.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArrayList.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

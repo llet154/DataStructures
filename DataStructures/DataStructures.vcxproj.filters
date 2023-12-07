@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Chapter02">
       <UniqueIdentifier>{22caa13c-bc98-4009-b84d-609629efdd1e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter03">
+      <UniqueIdentifier>{f6cbf3e6-cb9b-40a2-80d6-ef1d553c8d11}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LinearSearch.c">
@@ -42,5 +45,19 @@
     <ClCompile Include="RecursiveBinarySearch.c">
       <Filter>소스 파일\Chapter02</Filter>
     </ClCompile>
+    <ClCompile Include="HanoiTowerSolu.c">
+      <Filter>소스 파일\Chapter02</Filter>
+    </ClCompile>
+    <ClCompile Include="ListMain.c">
+      <Filter>소스 파일\Chapter03</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayList.c">
+      <Filter>소스 파일\Chapter03</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ArrayList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
