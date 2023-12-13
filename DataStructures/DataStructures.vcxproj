@@ -128,11 +128,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ArrayList.c" />
+    <ClCompile Include="ArrayRead.c" />
     <ClCompile Include="BinarySearch.c" />
     <ClCompile Include="BSWorstOpCount.c" />
     <ClCompile Include="FibonacciFunc.c" />
     <ClCompile Include="HanoiTowerSolu.c" />
     <ClCompile Include="LinearSearch.c" />
+    <ClCompile Include="LinkedRead.c" />
     <ClCompile Include="ListMain.c" />
     <ClCompile Include="Point.c" />
     <ClCompile Include="RecursiveBinarySearch.c" />
