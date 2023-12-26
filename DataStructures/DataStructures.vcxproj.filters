@@ -66,6 +66,15 @@
     <ClCompile Include="LinkedRead.c">
       <Filter>소스 파일\Chapter04</Filter>
     </ClCompile>
+    <ClCompile Include="4-1.c">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="4-2.c">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="DLinkedList.c">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArrayList.h">
@@ -75,6 +84,9 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="NameCard.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DLinkedList.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
