@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\Chapter04">
       <UniqueIdentifier>{6f1b864a-77c6-4057-90f4-7e257d9633db}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter05">
+      <UniqueIdentifier>{1e2cf519-efd2-4015-bdca-d530de6f00ae}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LinearSearch.c">
@@ -73,6 +76,9 @@
       <Filter>소스 파일\Chapter04</Filter>
     </ClCompile>
     <ClCompile Include="DLinkedList.c">
+      <Filter>소스 파일\Chapter04</Filter>
+    </ClCompile>
+    <ClCompile Include="DLinkedListSortMain.c">
       <Filter>소스 파일\Chapter04</Filter>
     </ClCompile>
   </ItemGroup>

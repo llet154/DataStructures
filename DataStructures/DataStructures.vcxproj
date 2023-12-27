@@ -134,6 +134,7 @@
     <ClCompile Include="BinarySearch.c" />
     <ClCompile Include="BSWorstOpCount.c" />
     <ClCompile Include="DLinkedList.c" />
+    <ClCompile Include="DLinkedListSortMain.c" />
     <ClCompile Include="FibonacciFunc.c" />
     <ClCompile Include="HanoiTowerSolu.c" />
     <ClCompile Include="LinearSearch.c" />
