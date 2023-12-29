@@ -133,6 +133,8 @@
     <ClCompile Include="ArrayRead.c" />
     <ClCompile Include="BinarySearch.c" />
     <ClCompile Include="BSWorstOpCount.c" />
+    <ClCompile Include="CLinkedList.c" />
+    <ClCompile Include="CLinkedListMain.c" />
     <ClCompile Include="DLinkedList.c" />
     <ClCompile Include="DLinkedListSortMain.c" />
     <ClCompile Include="FibonacciFunc.c" />
@@ -147,6 +149,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArrayList.h" />
+    <ClInclude Include="CLinkedList.h" />
     <ClInclude Include="DLinkedList.h" />
     <ClInclude Include="NameCard.h" />
     <ClInclude Include="Point.h" />
