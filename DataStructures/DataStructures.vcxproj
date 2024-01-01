@@ -135,6 +135,8 @@
     <ClCompile Include="BSWorstOpCount.c" />
     <ClCompile Include="CLinkedList.c" />
     <ClCompile Include="CLinkedListMain.c" />
+    <ClCompile Include="DBLinkedList.c" />
+    <ClCompile Include="DBLinkedListMain.c" />
     <ClCompile Include="DLinkedList.c" />
     <ClCompile Include="DLinkedListSortMain.c" />
     <ClCompile Include="FibonacciFunc.c" />
@@ -150,6 +152,7 @@
   <ItemGroup>
     <ClInclude Include="ArrayList.h" />
     <ClInclude Include="CLinkedList.h" />
+    <ClInclude Include="DBLinkedList.h" />
     <ClInclude Include="DLinkedList.h" />
     <ClInclude Include="NameCard.h" />
     <ClInclude Include="Point.h" />
