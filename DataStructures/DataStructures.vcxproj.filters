@@ -28,6 +28,9 @@
     <Filter Include="소스 파일\Chapter05">
       <UniqueIdentifier>{1e2cf519-efd2-4015-bdca-d530de6f00ae}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter06">
+      <UniqueIdentifier>{bc5946e5-0183-4e55-9017-2da8cb398ca2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LinearSearch.c">
@@ -93,6 +96,27 @@
     <ClCompile Include="DBLinkedList.c">
       <Filter>소스 파일\Chapter05</Filter>
     </ClCompile>
+    <ClCompile Include="ArrayBaseStack.c">
+      <Filter>소스 파일\Chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayBaseStackMain.c">
+      <Filter>소스 파일\Chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBaseStack.c">
+      <Filter>소스 파일\Chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="CLLbaseStack.c">
+      <Filter>소스 파일\Chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="InfixToPostfix.c">
+      <Filter>소스 파일\Chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="PostCalculator.c">
+      <Filter>소스 파일\Chapter06</Filter>
+    </ClCompile>
+    <ClCompile Include="InfixCalculator.c">
+      <Filter>소스 파일\Chapter06</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArrayList.h">
@@ -111,6 +135,24 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="DBLinkedList.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ArrayBaseStack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBaseStack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CLLbaseStack.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="InfixToPostfix.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="PostCalculator.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="InfixCalculator.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
