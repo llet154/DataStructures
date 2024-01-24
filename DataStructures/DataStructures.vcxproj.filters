@@ -31,6 +31,9 @@
     <Filter Include="소스 파일\Chapter06">
       <UniqueIdentifier>{bc5946e5-0183-4e55-9017-2da8cb398ca2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter07">
+      <UniqueIdentifier>{73b153fd-6bce-449b-8def-48419e2f3424}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LinearSearch.c">
@@ -117,6 +120,15 @@
     <ClCompile Include="InfixCalculator.c">
       <Filter>소스 파일\Chapter06</Filter>
     </ClCompile>
+    <ClCompile Include="ListBaseQueue.c">
+      <Filter>소스 파일\Chapter07</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularQueue.c">
+      <Filter>소스 파일\Chapter07</Filter>
+    </ClCompile>
+    <ClCompile Include="Deque.c">
+      <Filter>소스 파일\Chapter07</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArrayList.h">
@@ -153,6 +165,15 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="InfixCalculator.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="CircularQueue.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBaseQueue.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Deque.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
