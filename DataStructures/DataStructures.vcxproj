@@ -134,6 +134,7 @@
     <ClCompile Include="ArrayList.c" />
     <ClCompile Include="ArrayRead.c" />
     <ClCompile Include="BinarySearch.c" />
+    <ClCompile Include="BinaryTree.c" />
     <ClCompile Include="BSWorstOpCount.c" />
     <ClCompile Include="CircularQueue.c" />
     <ClCompile Include="CLinkedList.c" />
@@ -162,6 +163,7 @@
   <ItemGroup>
     <ClInclude Include="ArrayBaseStack.h" />
     <ClInclude Include="ArrayList.h" />
+    <ClInclude Include="BinaryTree.h" />
     <ClInclude Include="CircularQueue.h" />
     <ClInclude Include="CLinkedList.h" />
     <ClInclude Include="CLLbaseStack.h" />
