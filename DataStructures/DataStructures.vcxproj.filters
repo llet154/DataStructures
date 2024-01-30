@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\Chapter08">
       <UniqueIdentifier>{2b0f2424-a8d5-4f3c-a19b-1a233abf2363}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter09">
+      <UniqueIdentifier>{09534e54-5af0-48db-b462-19087bf71db9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LinearSearch.c">
@@ -141,6 +144,12 @@
     <ClCompile Include="ExpressionTree.c">
       <Filter>소스 파일\Chapter08</Filter>
     </ClCompile>
+    <ClCompile Include="SimpleHeap.c">
+      <Filter>소스 파일\Chapter09</Filter>
+    </ClCompile>
+    <ClCompile Include="UsefulHeap.c">
+      <Filter>소스 파일\Chapter09</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArrayList.h">
@@ -195,6 +204,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="ExpressionTree.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="SimpleHeap.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="UsefulHeap.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

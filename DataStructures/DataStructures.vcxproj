@@ -161,6 +161,8 @@
     <ClCompile Include="RecursiveBinarySearch.c" />
     <ClCompile Include="RecursiveFactorial.c" />
     <ClCompile Include="RecursiveFunc.c" />
+    <ClCompile Include="SimpleHeap.c" />
+    <ClCompile Include="UsefulHeap.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ArrayBaseStack.h" />
@@ -181,6 +183,8 @@
     <ClInclude Include="NameCard.h" />
     <ClInclude Include="Point.h" />
     <ClInclude Include="PostCalculator.h" />
+    <ClInclude Include="SimpleHeap.h" />
+    <ClInclude Include="UsefulHeap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
