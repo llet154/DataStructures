@@ -6,7 +6,7 @@
 //
 //#define HEAP_LEN 100
 //
-//typedef char HData;
+//typedef char HData;  //HeapSort할때는 char말고 int로 변경
 //typedef int PriorityComp(HData d1, HData d2);
 //
 //typedef struct _heap

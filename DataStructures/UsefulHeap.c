@@ -69,23 +69,23 @@
 //
 //HData HDelete(Heap* ph)
 //{
-//	HData retData = (ph->heapArr[1]).data;
+//	HData retData = ph->heapArr[1];
 //	HData lastElem = ph->heapArr[ph->numOfData];
 //
 //	int parentIDX = 1;
 //	int childIdx;
 //
-//	while (childIdx = GetHiPriChildIDX(ph, parentIdx))
+//	while (childIdx = GetHiPriChildIDX(ph, parentIDX))
 //	{
 //		//if (lastElem.pr <= ph->heapArr[childIdx].pr)
 //		if(ph->comp(lastElem,ph->heapArr[childIdx])>=0)
 //			break;
 //
-//		ph->heapArr[parentIdx] = ph->heapArr[childIdx];
-//		parentIdx = childIdx;
+//		ph->heapArr[parentIDX] = ph->heapArr[childIdx];
+//		parentIDX = childIdx;
 //	}
 //
-//	ph->heapArr[parentIdx] = lastElem;
+//	ph->heapArr[parentIDX] = lastElem;
 //	ph->numOfData -= 1;
 //	return retData;
 //}

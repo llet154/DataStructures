@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\Chapter09">
       <UniqueIdentifier>{09534e54-5af0-48db-b462-19087bf71db9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Chapter10">
+      <UniqueIdentifier>{cce935f4-a944-4314-a58c-842e6a6abf0f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LinearSearch.c">
@@ -149,6 +152,21 @@
     </ClCompile>
     <ClCompile Include="UsefulHeap.c">
       <Filter>소스 파일\Chapter09</Filter>
+    </ClCompile>
+    <ClCompile Include="BubbleSort.c">
+      <Filter>소스 파일\Chapter10</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionSort.c">
+      <Filter>소스 파일\Chapter10</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertionSort.c">
+      <Filter>소스 파일\Chapter10</Filter>
+    </ClCompile>
+    <ClCompile Include="HeapSort.c">
+      <Filter>소스 파일\Chapter10</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSort.c">
+      <Filter>소스 파일\Chapter10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

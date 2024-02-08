@@ -137,6 +137,7 @@
     <ClCompile Include="BinaryTree.c" />
     <ClCompile Include="BinaryTree2.c" />
     <ClCompile Include="BSWorstOpCount.c" />
+    <ClCompile Include="BubbleSort.c" />
     <ClCompile Include="CircularQueue.c" />
     <ClCompile Include="CLinkedList.c" />
     <ClCompile Include="CLinkedListMain.c" />
@@ -149,18 +150,22 @@
     <ClCompile Include="ExpressionTree.c" />
     <ClCompile Include="FibonacciFunc.c" />
     <ClCompile Include="HanoiTowerSolu.c" />
+    <ClCompile Include="HeapSort.c" />
     <ClCompile Include="InfixCalculator.c" />
     <ClCompile Include="InfixToPostfix.c" />
+    <ClCompile Include="InsertionSort.c" />
     <ClCompile Include="LinearSearch.c" />
     <ClCompile Include="LinkedRead.c" />
     <ClCompile Include="ListBaseQueue.c" />
     <ClCompile Include="ListBaseStack.c" />
     <ClCompile Include="ListMain.c" />
+    <ClCompile Include="MergeSort.c" />
     <ClCompile Include="Point.c" />
     <ClCompile Include="PostCalculator.c" />
     <ClCompile Include="RecursiveBinarySearch.c" />
     <ClCompile Include="RecursiveFactorial.c" />
     <ClCompile Include="RecursiveFunc.c" />
+    <ClCompile Include="SelectionSort.c" />
     <ClCompile Include="SimpleHeap.c" />
     <ClCompile Include="UsefulHeap.c" />
   </ItemGroup>
